@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-072bfca2","path":"/articles/ReadList/","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"文章收藏","slug":"文章收藏","link":"#文章收藏","children":[]}],"git":{"updatedTime":1687005805000,"contributors":[{"name":"syx","email":"863686193@qq.com","commits":1}]},"filePathRelative":"articles/ReadList/README.md"}');export{e as data};

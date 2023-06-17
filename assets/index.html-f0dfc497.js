@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-18193185","path":"/computer-base/","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"目录","slug":"目录","link":"#目录","children":[]}],"git":{"updatedTime":1687005805000,"contributors":[{"name":"syx","email":"863686193@qq.com","commits":1}]},"filePathRelative":"computer-base/README.md"}');export{e as data};

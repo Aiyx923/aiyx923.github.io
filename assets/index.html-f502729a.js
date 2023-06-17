@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-43c596aa","path":"/life-essay/","title":"","lang":"zh-CN","frontmatter":{},"headers":[{"level":2,"title":"生活杂文","slug":"生活杂文","link":"#生活杂文","children":[]}],"git":{"updatedTime":1687005805000,"contributors":[{"name":"syx","email":"863686193@qq.com","commits":1}]},"filePathRelative":"life-essay/README.md"}');export{e as data};
